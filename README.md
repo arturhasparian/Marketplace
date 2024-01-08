@@ -21,13 +21,13 @@ This service allows you to buy and sell cars
 
 Server: https://etachka-marketplace.space/
 
-Localhost: https://localhost
+Localhost: https://localhost:8443/
 
 ### API
 
 Server: https://etachka-marketplace.space//swagger-ui/index.html
 
-Localhost URL: https://localhost/swagger-ui/index.html
+Localhost URL: https://localhost:8443/swagger-ui/index.html
 
 ## Top 3 Contributors
 
